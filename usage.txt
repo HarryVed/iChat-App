@@ -1,0 +1,28 @@
+install nodemon also by npm i -g nodemon
+nodemon automatically reload the page after we change any file
+
+First start the server by typing in terminal:
+nodemon .\backend\index.js
+
+second open the html file with live server
+
+done enjoy chatting!
+
+note: socket.io version should is exactly equal to 2.3.0
+
+LINKS:
+this is working: https://cdn.jsdelivr.net/npm/emoji-button@0.6.0/dist/index.min.js
+
+{in this its not working
+## emoji picker download link: https://unpkg.com/browse/picmo@latest/dist/
+then in the list the 'index.js' is the main file
+its github repo link: https://github.com/joeattardi/picmo
+}
+
+alternate picker link: https://github.com/DIYgod/OwO/
+
+main template: https://getbootstrap.com/docs/4.1/examples/product/
+get the source code by pressing "ctrl + U"
+
+nav-bar: https://getbootstrap.com/docs/4.1/examples/pricing/
+get the source code by pressing "ctrl + U"

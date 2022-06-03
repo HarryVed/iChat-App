@@ -1,0 +1,14 @@
+{
+    "name": "nodeserver",
+    "version": "1.0.0",
+    "description": "This is nodeServer for iChat Application",
+    "main": "index.js",
+    "repository": "repo",
+    "author": "Jitish Goyal",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "nodemon": "^2.0.16",
+        "socket.io": "2.3.0"
+    }
+}
