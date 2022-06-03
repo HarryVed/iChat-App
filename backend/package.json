@@ -1,9 +1,15 @@
 {
-    "name": "nodeserver",
+    "name": "ichat-app",
     "version": "1.0.0",
-    "description": "This is nodeServer for iChat Application",
+    "description": "This is a free chat app that do not logs your messages making it so private",
     "main": "index.js",
-    "repository": "repo",
+    "engines": {
+        "node": "16.x"
+    },
+    "scripts": {
+        "start": "nodemon ./index.js"
+    },
+    "repository": "repo url",
     "author": "Jitish Goyal",
     "license": "MIT",
     "private": false,
